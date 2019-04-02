@@ -12,7 +12,6 @@ email: info@muhack.org
 # GOOGLE ANALYTICS
 # google-analytics-id:
 # BUILD SETTINGS
-markdown: redcarpet
 highlighter: rouge
 # PERMALINKS
 permalink: /:categories/:title/
@@ -21,4 +20,4 @@ relative_permalinks: false
 paginate: 5
 paginate_path: ":num"
 # GEMS
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
