@@ -1,0 +1,43 @@
+---
+layout: page
+description: "The first hackerspace in Brescia"
+---
+
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <div class="row">
+        <div class="col-lg-2 col-md-2 col-sm-2">
+            <div class="date-title">
+                <h1 class="day">{{ post.date | date: "%d" }}</h1>
+                <p class="month-year">{{ post.date | date: "%b %Y" }}</p>
+            </div>
+        </div>
+        <div class="col-lg-10 col-md-10 col-sm-10">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title">{{ post.title }}</h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p>
+        </div>
+    </div>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

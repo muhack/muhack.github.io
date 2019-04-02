@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# GENERAL
+title: Muhack
+description: "Il primo hackerspace bresciano, nato per promuovere la cultura open-source tramite la condivisione di idee, risorse ed esperienze!"
+baseurl: ""
+url: "https://muhack.org/"
+# SOCIAL
+facebook-username: muhackIT
+twitter-username: muhackIT
+github-username: muhack
+youtube-username: UC3NrDI9TYPBYz6pbUl3tqcA
+email: info@muhack.org
+# GOOGLE ANALYTICS
+# google-analytics-id:
+# BUILD SETTINGS
+markdown: redcarpet
+highlighter: rouge
+# PERMALINKS
+permalink: /:categories/:title/
+relative_permalinks: false
+# PAGINATION
+paginate: 5
+paginate_path: ":num"
+# GEMS
+gems: [jekyll-paginate, jekyll-feed]
