@@ -38,7 +38,7 @@ Se hai problemi, scrivi una email a [info@muhack.org](mailto:info@muhack.org), t
 
 ## Regolamento e iscrizione
 
-Per partecipare e iscriversi al laboratorio compilate ed inviate questo [questionario online](https://forms.gle/iLKVQfwxKkfYa81L9): i posti sono limitati a 20 partecipanti (le squadre saranno formate da 2 membri) e i partecipanti verranno selezionati considerando la tempista d'iscrizione e le informazioni forniteci. Verranno inoltre selezionate 4 eventuali riserve, con le medesime modalità.
+Per partecipare e iscriversi al laboratorio compilate ed inviate questo [questionario online](https://forms.gle/iLKVQfwxKkfYa81L9)(https://forms.gle/iLKVQfwxKkfYa81L9): i posti sono limitati a 20 partecipanti (le squadre saranno formate da 2 membri) e i partecipanti verranno selezionati considerando la tempista d'iscrizione e le informazioni forniteci. Verranno inoltre selezionate 4 eventuali riserve, con le medesime modalità.
 __Al raggiungimento del numero degli iscritti, chiuderemo il form e avviseremo tutti via email.__
 
 Il nostro laboratorio prevede le seguenti regole:
