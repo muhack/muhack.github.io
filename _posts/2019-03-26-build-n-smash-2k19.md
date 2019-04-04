@@ -15,11 +15,11 @@ Siamo felici di proporvi, in collaborazione con la [Barattieri SRL](https://bara
 Questo workshop anticipa un nostro evento che si tiene ogni anno, __Hack 'N' Smash__: una battaglia fra robot appartenenti alla categoria antweight (peso massimo 200g e dimensioni 10cm x 10cm x 10cm), vi lasciamo il link al regolamento completo ([clicca qui](/public/doc/regolamento-hack-n-smash.pdf)) e infondo alla pagina troverete il video della battaglia dell'edizione 2017!
 
 Sarete guidati passo per passo nella cotruzione del robot, dalla saldatura dei componenti circuitali, sino all'assemblaggio delle parti meccaniche.
-In oltre vi verrano forniti anche il codice Arduino e l'applicazione per Android per il controllo remoto.
+Inoltre vi verrano forniti anche il codice Arduino e l'applicazione per Android per il controllo remoto.
 
-_Il materiale vi verrà offerto e al termine del laboratorio le squadre potranno tenere il robot da loro costruito!_
+_Il materiale e i rovot costruiti rimarranno ai partecipanti dopo la conclusione del laboratorio!_
 
-Al termine del laboratorio sarà disponibile sul nostro sito una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
+Sul nostro sito sarà disponibile una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
 
 Per partecipare e iscrivervi leggete l'apposito [paragrafo](#regolamento-e-iscrizione)
 
