@@ -47,7 +47,7 @@ Il nostro laboratorio prevede le seguenti regole:
 3. __La partecipazione a tutte le tre le date è obblgiatoria e necessaria__
 4. __Ai partecipanti sarà ammesso modificare a proprio piacimento il codice software, il telaio e la componentistica e potrà venire da noi durante la settimana (previo avviso ai referenti de "Build 'N' Smash) per qualsiasi necessità__
 
-Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org) oppure cercate il nostro canale telegram [@muhack](t.me/muhack)!
+Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org) oppure cercate il nostro canale telegram [@muhack](https://t.me/muhack)!
 
 ### Attenzione: le iscirizioni chiudono il 4 Maggio! Affrettatevi!
 
