@@ -8,37 +8,51 @@ author: MrMoDDoM
 header-img: /public/img/2019-03-26-build-n-smash-2k19.jpg
 ---
 
-Siamo felici di proporvi in collaborazione con la [Barattieri SRL](https://barattieri.info/) un laboratorio di costruzione di robot da combattimento!
+Siamo felici di proporvi, in collaborazione con la [Barattieri SRL](https://barattieri.info/) e L'Università degl Studi di Brescia, un laboratorio __completamente gratuito__ di costruzione di robot da combattimento!
 
-Meglio ancora! Il __materiale è completamente gratuito!!__
+# Informazioni Generali
+
+Questo workshop anticipa un nostro evento che si tiene ogni anno, __Hack 'N' Smash__: una battaglia fra robot appartenenti alla categoria antweight (peso massimo 200g e dimensioni 10cm x 10cm x 10cm), vi lasciamo il link al regolamento completo ([clicca qui](/public/doc/regolamento-hack-n-smash.pdf)) e infondo alla pagina troverete il video della battaglia dell'edizione 2017!
 
 Sarete guidati passo per passo nella cotruzione del robot, dalla saldatura dei componenti circuitali, sino all'assemblaggio delle parti meccaniche.
 In oltre vi verrano forniti anche il codice Arduino e l'applicazione per Android per il controllo remoto.
 
+_Il materiale vi verrà offerto e al termine del laboratorio le squadre potranno tenere il robot da loro costruito!_
+
+Al termine del laboratorio sarà disponibile sul nostro sito una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
+
+Per partecipare e iscrivervi leggete l'apposito [paragrafo](#regolamento-e-iscrizione)
+
 ![Flyer](/public/img/2019-03-26-build-n-smash-2k19.jpg "Condividimi!" )
 
-# Quando?! Dove e come posso raggiungervi???
+## Quando?! Dove e come posso raggiungervi???
 
-L'evento si svolgerà nei giorni del  ~~**11-18-25 Maggio 2019 dalle 14:00 - 20:00**~~ presso la [Sala Associazioni del CedIsu](https://goo.gl/maps/sB5veuG4jdM2)
+L'evento si svolgerà nei giorni del  __<u>11-18-25 Maggio 2019 dalle 14:00 - 20:00</u>__ presso la [Sala Associazioni c/o ISU dell'UniBS](https://goo.gl/maps/sB5veuG4jdM2)
 
-* <span class="fa fa-1x fa-train"> *Treno*</span> - Scendi alla Stazione Centrale di Pisa, prosegui diritto e alla seconda rotonda prendi, a destra, Viale Francesco Bonaini e percorrilo fino a Piazza Guerrazzi.
-* <span class="fa fa-1x fa-bus"> *Autobus*</span> - Linea 5 e 14 fermano in Piazza Guerrazzi.
+* <span class="fa fa-1x fa-train"> *Treno*</span> - Scendi alla Stazione di Brescia, nel piazzale prosegui a destra, raggiungendo la stazione della metro (aperta fino a mezzanotte).
+* <span class="fa fa-1x fa-subway"> *Metro*</span> - Scendi alla Fermata Europa, attraversa Via Branze (verso il parcheggio prospicente la stazione della metro).
+* <span class="fa fa-1x fa-bus"> *Autobus*</span> - Linea 16 e 10 in Via Branze, risali sino al campo da baseball ed entra nel parcheggio.
 * <span class="fa fa-1x fa-car"> *Auto*</span> - Parcheggia in zona.
 
 Se hai problemi, scrivi una email a [info@muhack.org](mailto:info@muhack.org), ti risponderemo subito!
 
-# Regolamento e iscrizione:
+## Regolamento e iscrizione
 
-Compilate ed inviate questo [questionario online](https://forms.gle/iLKVQfwxKkfYa81L9): i posti sono limitati a 20 partecipanti e verrano selezionati in base alle risposte!
+Per partecipare e iscriversi al laboratorio compilate ed inviate questo [questionario online](https://forms.gle/iLKVQfwxKkfYa81L9): i posti sono limitati a 20 partecipanti (le squadre saranno formate da 2 membri) e i partecipanti verranno selezionati considerando la tempista d'iscrizione e le informazioni forniteci. Verranno inoltre selezionate 4 eventuali riserve, con le medesime modalità.
+__Al raggiungimento del numero degli iscritti, chiuderemo il form e avviseremo tutti via email.__
 
-### __Chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno__ 
+Il nostro laboratorio prevede le seguenti regole:
+1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno__
+2. __Le decisioni prese dall'associazione di MuHack sono insidacabili__
+3. __La partecipazione a tutte le tre le date è obblgiatoria e necessaria__
+4. __Ai partecipanti sarà ammesso modificare a proprio piacimento il codice software, il telaio e la componentistica e potrà venire da noi durante la settimana (previo avviso ai referenti de "Build 'N' Smash) per qualsiasi necessità__
 
-Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org)!
+Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org) oppure cercate il nostro canale telegram [@muhack](t.me/muhack)!
 
 ### Attenzione: le iscirizioni chiudono il 4 Maggio! Affrettatevi!
 
 ---
 
-Nell'attesa vi lascio con un piccolo assaggio della scorsa edizione del __Hack'n'Smash__, la battaglia robot firmata MuHack!
+Nell'attesa vi lascio con un piccolo assaggio dell'edizione 2017 del __Hack'n'Smash__, la battaglia robot firmata MuHack!
 
-[![Video YouTube Seconda Edizione](/public/img/2018-08-07-hack-n-smash.png)](https://www.youtube.com/watch?v=YeqrAlOSkOY)
+[![Video YouTube Seconda Edizione](https://img.youtube.com/vi/YeqrAlOSkOY/0.jpg)](https://www.youtube.com/watch?v=YeqrAlOSkOY)
