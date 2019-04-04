@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Build 'N Smash 2019"
+title: "Build 'N' Smash 2019"
 subtitle: "Laboratorio gratuito di costruzione robot da combattimento"
 categories: News
 date: 2019-03-26
