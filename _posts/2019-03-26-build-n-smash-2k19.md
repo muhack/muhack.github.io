@@ -17,7 +17,7 @@ Questo workshop anticipa un nostro evento che si tiene ogni anno, __Hack 'N' Sma
 Sarete guidati passo per passo nella cotruzione del robot, dalla saldatura dei componenti circuitali, sino all'assemblaggio delle parti meccaniche.
 Inoltre vi verrano forniti anche il codice Arduino e l'applicazione per Android per il controllo remoto.
 
-_Il materiale e i rovot costruiti rimarranno ai partecipanti dopo la conclusione del laboratorio!_
+_Il materiale e i roBot costruiti rimarranno ai partecipanti dopo la conclusione del laboratorio!_
 
 Sul nostro sito sarà disponibile una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
 
@@ -44,7 +44,7 @@ __Al raggiungimento del numero degli iscritti, chiuderemo il form e avviseremo t
 Il nostro laboratorio prevede le seguenti regole:
 1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno__
 2. __Le decisioni prese dall'associazione di MuHack sono insidacabili__
-3. __La partecipazione a tutte le tre le date è obblgiatoria e necessaria__
+3. __La partecipazione a tutte le tre le date è obbliGatoria e necessaria__
 4. __Ai partecipanti sarà ammesso modificare a proprio piacimento il codice software, il telaio e la componentistica e potrà venire da noi durante la settimana (previo avviso ai referenti de "Build 'N' Smash) per qualsiasi necessità__
 
 Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org) oppure cercate il nostro canale telegram [@muhack](https://t.me/muhack)!
