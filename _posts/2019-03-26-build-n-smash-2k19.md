@@ -27,7 +27,7 @@ Per partecipare e iscrivervi leggete l'apposito [paragrafo](#regolamento-e-iscri
 
 ## Quando?! Dove e come posso raggiungervi???
 
-L'evento si svolgerà nei giorni del  __<u>11-18-25 Maggio 2019 dalle 14:00 - 20:00</u>__ presso la [Sala Associazioni c/o ISU dell'UniBS](https://goo.gl/maps/sB5veuG4jdM2)
+L'evento si svolgerà nei giorni del  __<u>11-18-25 Maggio 2019 dalle 14:00 - 20:00</u>__ presso la [Sala Associazioni c/o ISU dell'UniBS](https://goo.gl/maps/sB5veuG4jdM2) in via Diogene Valotti 3B, Brescia.
 
 * <span class="fa fa-1x fa-train"> *Treno*</span> - Scendi alla Stazione di Brescia, nel piazzale prosegui a destra, raggiungendo la stazione della metro (aperta fino a mezzanotte).
 * <span class="fa fa-1x fa-subway"> *Metro*</span> - Scendi alla Fermata Europa, attraversa Via Branze (verso il parcheggio prospicente la stazione della metro).
