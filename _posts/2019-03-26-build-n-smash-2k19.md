@@ -42,9 +42,9 @@ Per partecipare e iscriversi al laboratorio compilate ed inviate questo [questio
 __Al raggiungimento del numero degli iscritti, chiuderemo il form e avviseremo tutti via email.__
 
 Il nostro laboratorio prevede le seguenti regole:
-1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno__
+1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno (le tre possiibli date sono 1, 7 o 8 Giugno)__
 2. __Le decisioni prese dall'associazione di MuHack sono insidacabili__
-3. __La partecipazione a tutte le tre le date è obbliGatoria e necessaria__
+3. __La partecipazione a tutte le tre le date è obbligatoria e necessaria__
 4. __Ai partecipanti sarà ammesso modificare a proprio piacimento il codice software, il telaio e la componentistica e potrà venire da noi durante la settimana (previo avviso ai referenti de "Build 'N' Smash) per qualsiasi necessità__
 
 Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email [info@muhack.org](mailto:info@muhack.org) oppure cercate il nostro canale telegram [@muhack](https://t.me/muhack)!
