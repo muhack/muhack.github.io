@@ -14,14 +14,16 @@ Siamo felici di proporvi, in collaborazione con la [Barattieri SRL](https://bara
 
 Questo workshop anticipa un nostro evento che si tiene ogni anno, __Hack 'N' Smash__: una battaglia fra robot appartenenti alla categoria antweight (peso massimo 200g e dimensioni 10cm x 10cm x 10cm), vi lasciamo il link al regolamento completo ([clicca qui](/public/doc/regolamento-hack-n-smash.pdf)) e infondo alla pagina troverete il video della battaglia dell'edizione 2017!
 
-Sarete guidati passo per passo nella cotruzione del robot, dalla saldatura dei componenti circuitali, sino all'assemblaggio delle parti meccaniche.
-Inoltre vi verrano forniti anche il codice Arduino e l'applicazione per Android per il controllo remoto.
+Sarete guidati passo per passo nella costruzione del robot, dalla saldatura dei componenti circuitali, sino all'assemblaggio delle parti meccaniche.
 
-_Il materiale e i roBot costruiti rimarranno ai partecipanti dopo la conclusione del laboratorio!_
+__Il materiale sarà fornito gratuitamente a tutti i partecipanti__ grazie al contributo dell'Università degli Studi di Brescia.
+Inoltre vi verrà reso disponibile anche il codice Arduino e l'applicazione per Android per il controllo remoto.
 
-Sul nostro sito sarà disponibile una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
+_I robot costruiti rimarranno ai partecipanti dopo la conclusione del laboratorio!_
 
 Per partecipare e iscrivervi leggete l'apposito [paragrafo](#regolamento-e-iscrizione)
+
+Chi non potrà o non sarà riuscito a partecipare al corso, sul nostro sito sarà disponibile una guida, l'elenco del materiale con i link per acquistarlo, il software utilizzato e i file di stampa per il telaio.
 
 ![Flyer](/public/img/2019-03-26-build-n-smash-2k19.jpg "Condividimi!" )
 
@@ -42,7 +44,7 @@ Per partecipare e iscriversi al laboratorio compilate ed inviate questo [questio
 __Al raggiungimento del numero degli iscritti, chiuderemo il form e avviseremo tutti via email.__
 
 Il nostro laboratorio prevede le seguenti regole:
-1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno (le tre possiibli date sono 1, 7 o 8 Giugno)__
+1. __A chi verrà ammesso al corso sarà richiesto di partecipare come sfidanti alla battaglia finale che si terrà indicativamente ad inizio Giugno (la data precisa verrà scelta dopo aver sentito i partecipanti, in comune accordo)__
 2. __Le decisioni prese dall'associazione di MuHack sono insidacabili__
 3. __La partecipazione a tutte le tre le date è obbligatoria e necessaria__
 4. __Ai partecipanti sarà ammesso modificare a proprio piacimento il codice software, il telaio e la componentistica e potrà venire da noi durante la settimana (previo avviso ai referenti de "Build 'N' Smash) per qualsiasi necessità__
