@@ -1,0 +1,55 @@
+Ruote x 4pz
+https://www.amazon.it/Junlinto-Simulazione-Giocattolo-Modello-Ricambio/dp/B07HQDBTSV/ref=sr_1_fkmr0_3?ie=UTF8&qid=1540679686&sr=8-3-fkmr0&keywords=ruote+modellismo+foro+5
+4.85
+
+Sfera anteriore x 1
+https://www.bricoman.it/n/ferramenta/mobili/ruote/fisse/ruota-sferica-13mm-portata-15kg-acciaio/10008177/
+0.90
+
+H-Bridge x 3
+https://www.banggood.com/3pcs-Dual-Channel-L298N-DC-Motor-Driver-Board-PWM-Speed-Dual-H-Bridge-Stepper-Module-p-1167074.html?rmmds=search&cur_warehouse=CN
+3.75
+
+Arduino nano x 3
+https://www.banggood.com/3Pcs-ATmega328P-Nano-V3-Controller-Board-Compatible-Arduino-Improved-Version-p-983486.html?rmmds=search&cur_warehouse=CN
+10.39
+
+Bluetooth hc-06 x 3
+https://www.banggood.com/3Pcs-HC-06-Wireless-Bluetooth-Transceiver-RF-Main-Module-Serial-For-Arduino-p-1023742.html?rmmds=search&cur_warehouse=CN
+13.39
+
+VTCE M3x10 x 100
+https://www.ebay.it/itm/24-50-100pz-M3-Viti-Esagonali-Bullone-Grado-12-9-in-Acciaio-Nero-4-50mm/322371399779?hash=item4b0ed53063:m:mJAR5x4U2kegtSB5WPjxA_w:rk:173:pf:0
+3.23
+
+VTCE M3x20 x 50
+https://www.ebay.it/itm/24-50-100pz-M3-Viti-Esagonali-Bullone-Grado-12-9-in-Acciaio-Nero-4-50mm/322371399779?hash=item4b0ed53063:m:mJAR5x4U2kegtSB5WPjxA_w:rk:173:pf:0
+2.38
+
+Rondelle d.3 x 200
+https://www.ebay.it/itm/100Pz-304-Acciaio-Inox-Rondelle-Viti-Bulloni-M1-6-M2-M2-5-M3-M4-M5-M6-M8-M10/282994260033?hash=item41e3c5b841:m:mp-mNezWL0NAe30lvIfIvpg:rk:14:pf:0
+2.06
+
+Dadi M3 x 200
+https://www.ebay.it/itm/50-100Pz-Dadi-Esagonali-M1-6-M2-M2-5-M3-M4-M5-M6-M8-M10-SS304-Viti-Bulloni-Dadi/283000218619?_trkparms=aid%3D555017%26algo%3DPL.CASSINI%26ao%3D1%26asc%3D20180221161347%26meid%3D50b26eae7c974986adf802d8997a2f1f%26pid%3D100505%26rk%3D1%26rkt%3D1%26%26itm%3D283000218619&_trksid=p2045573.c100505.m3226
+2.12
+
+Viti Autofilettanti 2.3x6mm 
+x 500
+https://www.ebay.it/itm/M2-3-M2-6-M3-Round-Pan-Head-Phillips-Self-Tapping-Screws-Black-Zinc-Carbon-Steel/222215821446?hash=item33bd185886:m:mhMhj1e97-XoeU0chHWC3vA:rk:25:pf:0
+5.23
+
+Batteria 
+https://hobbyking.com/it_it/turnigy-nano-tech-300mah-2s-35-70c-lipo-pack-e-flite-eflb2002s25-micro-series-compatible.html
+
+Carica batterie
+economico
+https://hobbyking.com/it_it/turnigy-12v-2-3s-basic-balance-charger.html
+4.57
+standard 
+https://hobbyking.com/it_it/imax-b6-50w-5a-charger-discharger-1-6-cells-genuine.html
+27.69
+
+Connettori
+https://www.ebay.it/itm/100Pcs-Mini-Micro-JST-2-0-PH-2Pin-Connector-Plug-With-120mm-Wires-Cables/162587823369?hash=item25dafd4d09:g:lBgAAOSw95FZZWtA:rk:47:pf:0
+4.56
