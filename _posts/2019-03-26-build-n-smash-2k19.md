@@ -65,6 +65,8 @@ Nell'attesa vi lascio con un piccolo assaggio dell'edizione 2017 del __Hack'n'Sm
 ## LINK MATERIALE
 
 Programma Arduino https://github.com/YanDieg/Build-N-Smash
+
 APP Android di riferimento per il programma https://play.google.com/store/apps/details?id=org.projectproto.btjoystick&hl=it
+
 Materiale utilizzato nel corso [clicca qui](/public/doc/build-n-smash-2019/materialecorso.txt)
 
