@@ -7,6 +7,9 @@ date: 2019-03-26
 author: MrMoDDoM
 header-img: /public/img/2019-03-26-build-n-smash-2k19.jpg
 ---
+# UPDATE (Aggiunti link in fondo alla pagina per il programma e il materiale!)
+
+
 
 Siamo felici di proporvi, in collaborazione con la [Barattieri SRL](https://barattieri.info/) e L'Università degl Studi di Brescia, un laboratorio __completamente gratuito__ di costruzione di robot da combattimento!
 
@@ -58,3 +61,10 @@ Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo emai
 Nell'attesa vi lascio con un piccolo assaggio dell'edizione 2017 del __Hack'n'Smash__, la battaglia robot firmata MuHack!
 
 [![Video YouTube Seconda Edizione](https://img.youtube.com/vi/YeqrAlOSkOY/0.jpg)](https://www.youtube.com/watch?v=YeqrAlOSkOY)
+
+## LINK MATERIALE
+
+Programma Arduino https://github.com/YanDieg/Build-N-Smash
+APP Android di riferimento per il programma https://play.google.com/store/apps/details?id=org.projectproto.btjoystick&hl=it
+Materiale utilizzato nel corso [clicca qui](/public/doc/build-n-smash-2019/materialecorso.txt)
+
