@@ -3,7 +3,7 @@ layout: post
 title: "MuHackademy 2k19"
 subtitle: "Corsi per la diffusione della cultura e delle tecnologia libere. Info e dettagli dell'evento firmato MuHack"
 categories: Events
-date: 2018-12-27
+date: 2019-02-02
 author: MrMoDDoM
 header-img: /public/img/2018-12-27-muhackademy-2k19.jpg
 ---
