@@ -29,6 +29,7 @@ Aprendo il file possiamo vedere importato il nostro bellissimo logo, in questo c
 - `scritta` : la piccola scritta muhack sotto il simbolo µh
 - `fondo` : il fondo interno del logo
 - `lettere___bordo` : il bordo esterno e le lettere µh
+
 È possibile vedere gli elementi nel layer 1 e per visualizzare il pannello dei layer cliccare `Livello->Livelli e Oggetti...` (nel caso di inkscape in italiano, in inglese guardate la relativa traduzione). 
 Per cambiare il colore di questi oggetti basta aprire il pannello `Oggetto->Riempimento e colori...` e selezionato l'oggetto molto semplicemente scegliere il nuovo colore. 
 
@@ -43,11 +44,13 @@ Una volta finito con i colori è giunto il momento di esportare il file ad alta 
 Ok, ma come faccio a stampare gli adesivi che ho appena creato? E mi costeranno una fortuna farli stampare?
 Tranquilli, molto spesso è possibile usufruire di una promozione da parte di [sticker mule][2] che vi permette di stampare una decina di adesivi a 1 solo euro, spedizione inclusa. La promozione è ciclica e a volte potrebbe non essere disponibile. In genere vi conviene fare una breve ricerca su Google (es. "sticker mule 1€") per vedere se la promo è attiva. Nota: la promo di solito è valida come primo acquisto sul sito, quindi per più ordini sarà necessario avere più account.
 
-Per effettuare l'ordine bisogna innanzitutto registrarsi al sito tramite un indirizzo mail e un numero di telefono per la verifica. Una volta registrati è possibile usufruire della promozione dove basterà inserire il file appena estratto. Una volta caricato il file e inserito un indirizzo di spedizione e modalità di pagamento è possibile procedere con l'ordine. Dopo aver confermato l'ordine riceverete una mail chiedendovi l'approvazione della stampa: in questo caso potete vedere una specie di anteprima di come risulteranno gli stickers e nel caso siano a posto si può procedere con l'approvazione e la stampa.
+Per effettuare l'ordine bisogna innanzitutto registrarsi al sito tramite un indirizzo mail e un numero di telefono per la verifica. Una volta registrati è possibile usufruire della promozione dove basterà inserire il file appena estratto. Caricato il file e inserito un indirizzo di spedizione e modalità di pagamento è possibile procedere con l'ordine. Dopo aver confermato l'ordine riceverete una mail chiedendovi l'approvazione della stampa: in questo caso potete vedere una specie di anteprima di come risulteranno gli stickers e nel caso siano a posto si può procedere con l'approvazione e la stampa.
 
 Gli adesivi possono metterci una settimana da quando vengono ordinati prima di arrivare a casa. In questo caso armatevi di pazienza ma una volta ricevuti potrete finalmente avere in mano il vostro adesivo personalizzato.
 
 Un mio ultimo consiglio: portate i vostri adesivi in associazione e scambiateli con quelli di altri associati oppure banalmente lasciate gli stickers che non vi servono in Muhack. Magari qualcun altro potrà apprezzare il vostro lavoro e attaccarli al proprio pc. 
+
+<figure><a href="{{ site.url }}public/img/2022-12-20-custom-sticker.jpg"><img src="{{ site.url }}public/img/2022-12-20-custom-sticker.jpg" alt="Stickers Muhack"></a></figure>
 
 Insomma, divertitevi a personalizzare il logo Muhack con lo stile che più vi piace. Sicuramente ne uscirà qualcosa di bello!
 
