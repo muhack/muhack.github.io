@@ -5,7 +5,7 @@ subtitle: "Come creare e far stampare in pochi passi il tuo sticker Muhack perso
 categories: Talks
 date: 2022-12-20
 author: dr-marco
-header-img: /public/img/2020-12-20-inkscape-with-logo.png
+header-img: /public/img/2022-12-20-inkscape-with-logo.png
 ---
 
 
@@ -13,7 +13,7 @@ Attaccare adesivi sul proprio computer è una delle cose che accomunano tutte le
 
 Anche Muhack ha più volte stampato adesivi da attaccare nei posti più disparati, da banalmente i pc degli associati alle varie città di mezza Europa. Quindi quando siete in giro fateci caso, potreste imbattervi in qualcuno!
 
-<figure><a href="{{ site.url }}/public/img/2022-12-20-muhack-sticker-porto.jpg"><img src="{{ site.url }}/public/img/2022-12-20-muhack-sticker-porto.jpg" alt="Adesivo Muhack in quel di Porto"></a><figcaption>Adesivo Muhack in quel di Porto</figcaption></figure>
+<figure><a href="{{ site.url }}public/img/2022-12-20-muhack-sticker-porto.jpg"><img src="{{ site.url }}public/img/2022-12-20-muhack-sticker-porto.jpg" alt="Adesivo Muhack in quel di Porto"></a><figcaption>Adesivo Muhack in quel di Porto</figcaption></figure>
 
 E se volete, in associazione è possibile richiedere stickers classici da attaccare sul vostro computer oppure se dovete prepararvi per la vostra spedizione fuori porta. Insomma, spargere gli adesivi Muhack in nuove città è sempre ben accetto e incoraggiato.
 
@@ -23,12 +23,13 @@ Anche se il logo nero, classico, Muhack è molto bello, qualcuno potrebbe voler 
 
 Nel nostro caso utilizzeremo il file `logo_sticker_mule.svg` all'interno della cartella `loghi` presente nel repo. Potete aprire il file con qualsiasi programma supporti i file vettoriali, in questo caso farò affidamento a [Inkscape][3]
 
-<figure><a href="{{ site.url }}/public/img/2020-12-20-inkscape-with-logo.png"><img src="{{ site.url }}/public/img/2020-12-20-inkscape-with-logo.png" alt="Schermata di Inkscape con il logo Muhack"></a><figcaption>Schermata di Inkscape con il logo Muhack</figcaption></figure>
+<figure><a href="{{ site.url }}public/img/2022-12-20-inkscape-with-logo.png"><img src="{{ site.url }}public/img/2022-12-20-inkscape-with-logo.png" alt="Schermata di Inkscape con il logo Muhack"></a><figcaption>Schermata di Inkscape con il logo Muhack</figcaption></figure>
 
 Aprendo il file possiamo vedere importato il nostro bellissimo logo, in questo caso in versione cyberpunk, ovvero con il contorno, la scritta e il simbolo nero e il fondo giallo ripreso dal famoso videogioco. Il logo è composto da 3 "oggetti" principali:
 - `scritta` : la piccola scritta muhack sotto il simbolo µh
 - `fondo` : il fondo interno del logo
 - `lettere___bordo` : il bordo esterno e le lettere µh
+È possibile vedere gli elementi nel layer 1 e per visualizzare il pannello dei layer cliccare `Livello->Livelli e Oggetti...` (nel caso di inkscape in italiano, in inglese guardate la relativa traduzione). 
 Per cambiare il colore di questi oggetti basta aprire il pannello `Oggetto->Riempimento e colori...` e selezionato l'oggetto molto semplicemente scegliere il nuovo colore. 
 
 Invito inolte ad approfondire l'utilizzo di Inkscape e, magari, al posto di utilizzare colori a tinta unita sperimentate con gradienti oppure inserendo delle immagini per il fondo.
