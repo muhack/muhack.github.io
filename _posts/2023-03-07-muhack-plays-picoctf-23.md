@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MuHack Plays PicoCTF 2023"
-subtitle: "Venite a provare il vero _from pwn import *_"
+subtitle: "Venite a provare il vero >from pwn import *<"
 categories: Events
 date: 2023-03-07
 author: MrMoDDoM
