@@ -25,7 +25,8 @@ Ecco il volantino ufficiale
 ![Volantino](/public/img/2023-05-29-muhackademy-school.png)
 
 # Programma
-In questa edizione verranno trattate tematiche introduttive al mondo hackerspace e opensource. Si partirà con l'inquadrare cosa si intende per hackerspace, cybersecurity, ethical hacking fino a proseguire su quali organizzazioni e attività esistono in circolazione  concludendo poi esplorando tecnologie e strumenti su cui tipicamente si va a *smanettare* con anche delle demo dal vivo.
+In questa edizione verranno trattate tematiche introduttive al mondo hackerspace e opensource. Si partirà inquadrando cosa si intende per hackerspace, cybersecurity, ethical hacking. 
+Successivamente, si parlerà di quali organizzazioni e attività esistono andando infine ad approfondire, anche tramite demo dal vivo, alcune delle tecnologie e strumenti su cui tipicamente si può andare a *smanettare*.
 
 
 
