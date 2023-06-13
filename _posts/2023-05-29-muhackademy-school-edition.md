@@ -32,11 +32,11 @@ Successivamente, si parlerà di quali organizzazioni e attività esistono andand
 
 * Intro MuHackademy [SLIDES](/public/doc/muhackademy-se/intro.pdf)
 * MuHack - il primo Hackerspace di Brescia
-    * :checkered_flag: CTF e CyberChallenge
-* :cat: Git e Github - Christian Langellotti [SLIDES](/public/doc/muhackademy-se/git_e_github.pdf)
-* :art: Processing e arte digitale - Daniele Barattieri [SLIDES](/public/doc/muhackademy-se/processing.odp)
-* :satellite: Guida per Esploratori dello Spettro RF - Ettore Forigo [SLIDES](/public/doc/muhackademy-se/Guida_per_Esploratori_dello_Spettro_RF.pdf)
-* :computer: Dalle CTF all'Hacking - Giovanni Cammisa
+    * 🏁 CTF e CyberChallenge
+* 🐱 Git e Github - Christian Langellotti [SLIDES](/public/doc/muhackademy-se/git_e_github.pdf)
+* 🎨 Processing e arte digitale - Daniele Barattieri [SLIDES](/public/doc/muhackademy-se/processing.odp)
+* 📡 Guida per Esploratori dello Spettro RF - Ettore Forigo [SLIDES](/public/doc/muhackademy-se/Guida_per_Esploratori_dello_Spettro_RF.pdf)
+* 💻 Dalle CTF all'Hacking - Giovanni Cammisa
 
 <figure><a href="{{ site.url }}public/img/2023-05-29-mse-present.jpg"><img src="{{ site.url }}public/img/2022-12-20-mse-present.jpg" alt="MuHackademy School Edition all'istituto Pascal"></a><figcaption>MuHackademy School Edition all'istituto Pascal</figcaption></figure>
 
