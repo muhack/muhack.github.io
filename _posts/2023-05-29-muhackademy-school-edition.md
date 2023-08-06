@@ -38,7 +38,9 @@ Successivamente, si parlerà di quali organizzazioni e attività esistono andand
 * 📡 Guida per Esploratori dello Spettro RF - Ettore Forigo [SLIDES](/public/doc/muhackademy-se/Guida_per_Esploratori_dello_Spettro_RF.pdf)
 * 💻 Dalle CTF all'Hacking - Giovanni Cammisa
 
+
 <figure><a href="{{ site.url }}public/img/2023-05-29-mse-present.jpg"><img src="{{ site.url }}public/img/2023-05-29-mse-present.jpg" alt="MuHackademy School Edition all'istituto Pascal"></a><figcaption>MuHackademy School Edition all'istituto Pascal</figcaption></figure>
+
 
 # Servono delle conoscenze particolari?
 Assolutamente no: tutto ciò che occorre è la tua buona volontà di ascoltare per due ore, persone che, possibilmente come te, hanno iniziato ad imparare un passo alla volta, ed ora sono desiderose di condividerle!

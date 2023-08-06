@@ -6,6 +6,7 @@ categories: Talks
 date: 2018-02-05
 author: "Federico Giardini"
 header-img: https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-Zero-1-1755x1080.jpg
+hidden: true
 ---
 
 
