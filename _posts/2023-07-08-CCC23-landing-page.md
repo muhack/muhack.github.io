@@ -2,10 +2,10 @@
 layout: post
 title: "CCC23 - MuHack Badge and MuTag"
 subtitle: "Here all the info about the MuHack Badge and keychain"
-categories: News
+categories: Events
 date: 2023-08-07
 author: MrMoDDoM
-header-img: /public/img/2019-03-26-build-n-smash-2k19.jpg
+header-img: /public/img/2022-12-20-custom-sticker.jpg
 hidden: true
 ---
 
@@ -23,6 +23,8 @@ This latter integrates a __3-axis gyroscope, a 3-axis accelerometer__ and a prog
 The BHI160(B) is also connected to the Bosh __BMM150__ magnetometer, a low power and low noise __3-axis digital geomagnetic__ sensor.
 
 Thanks to the BHI160(B) and the BMM150, the MuHack Badge can be used to measure the orientation of the board in space, crushing a __full 9DOF IMU quaternion__, as well as __activity recognition__, such as step counting, wakeup/pickup/tilt/glance gesture and other motion related features.
+
+![Badge startup](/public/img/2023-07-08-CCC23-landing-page-badge-rotate.gif)
 
 The board mounts also an __NFC ISO 15 chip, the ST25DV__, and antenna that can be used to store data and communicate with other devices. It is connected to the RP2040 using I2C, allowing the microcontroller to read and write data to it, as well as sending and receiving interrupts.
 
@@ -68,7 +70,7 @@ For some reference code, check out the official [MuTag repository](https://githu
 
 ## Something about us
 
-__MuHackis the first hackerspace in Brescia, Italy__. We are a bunch of people that like to hack, build and learn new things. We're a non-profit organization and we're always looking for new members. 
+__MuHack is the first hackerspace in Brescia, Italy__. We are a bunch of people that like to hack, build and learn new things. We're a non-profit organization and we're always looking for new members. 
 
 If you want to know more about us, feel free to check our [website](http://muhack.org) and don't esitate to contact us.
 
