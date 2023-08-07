@@ -1,0 +1,75 @@
+---
+layout: post
+title: "CCC23 - MuHack Badge and MuTag"
+subtitle: "Here all the info about the MuHack Badge and keychain"
+categories: News
+date: 2023-08-07
+author: MrMoDDoM
+header-img: /public/img/2019-03-26-build-n-smash-2k19.jpg
+hidden: true
+---
+
+# CCC23 - MuHack Badge and keychain
+
+So you stubled upon this strange circuit board and you want to know more about it? Well, you are in the right place!
+
+## The MuHack Badge
+
+This circular board is the official __MuHack Badge__. It's a board with an __RP2040__ (a 32-bit dual ARM Cortex-M0+) as main microcontroller running __MicroPython__, and the Bosh Sensor Hub __BHI160(B)__ as secondary microcontroller.
+
+![Badge startup](/public/img/2023-07-08-CCC23-landing-page-badge-startup.gif)
+
+This latter integrates a __3-axis gyroscope, a 3-axis accelerometer__ and a programmable microcontroller. The sensor also contains pre-installed fusion software and specific algorithms that enable always-on motion sensing. 
+The BHI160(B) is also connected to the Bosh __BMM150__ magnetometer, a low power and low noise __3-axis digital geomagnetic__ sensor.
+
+Thanks to the BHI160(B) and the BMM150, the MuHack Badge can be used to measure the orientation of the board in space, crushing a __full 9DOF IMU quaternion__, as well as __activity recognition__, such as step counting, wakeup/pickup/tilt/glance gesture and other motion related features.
+
+The board mounts also an __NFC ISO 15 chip, the ST25DV__, and antenna that can be used to store data and communicate with other devices. It is connected to the RP2040 using I2C, allowing the microcontroller to read and write data to it, as well as sending and receiving interrupts.
+
+An __ESP32 module can be optionally mounted__ to enable bluetooth and WiFi communication. It can be used to stream data to a computer or a smartphone, as well as to connect to the internet.
+
+It's a simple board, but thank to the many GPIO pins, it's hackable and it's a great way to learn how to program microcontrollers.
+
+### How to use it
+
+First things first, you need to install __MicroPython__, by simply download and drag and drop the firmware file on the board. You can find the latest firmware [here](https://micropython.org/download/rp2-pico/).
+
+Then upload all the file within the `BOSS` folder of the official [MuHack Badge repository](https://github.com/MrMoDDoM/MuHack-Badge), and you are ready to go!
+
+Once the board is flashed, you can connect to it using the serial port. If you are using Linux or MacOS, you can use the `screen` or `minicom` command, while if you are using Windows, you can use [PuTTY](https://www.putty.org/).
+
+
+The firmware is still a WIP, so expect some bugs and missing features. If you want to contribute, feel free to open a pull request on the official repository.
+
+## MuTag - The MuHack Keychain
+
+The MuTag is a small keychain featuring an __ATTiny44a__ microcontroller and an __ST25DV__ NFC ISO15 tag.
+
+
+![MuTag](/public/img/2023-07-08-CCC23-landing-page-mutag_v2_1.jpg)
+
+
+Thanks to the __Energy Harvesting__ feature of the ST25DV, the MuTag can be __powered by the NFC field__ of a smartphone or a reader.
+
+From the MCU is it possible to access the NFC tag using I2C, to modify the tag's configuration and read/write data.
+
+### How to use it
+
+For programming the MuTag, you need an __ISP programmer__ (such as the [USBasp](https://www.fischl.de/usbasp/) or the [USBtinyISP](https://learn.adafruit.com/usbtinyisp) from Adafruit) or a simple Arduino board, flashed with the ArduinoISP sketch.
+
+Then, using the [Arduino IDE](https://www.arduino.cc/en/software) and the additional [ATTinyCore by SpenceKonde](https://github.com/SpenceKonde/ATTinyCore), simply program and upload a common Arduino sketch.
+
+For some reference code, check out the official [MuTag repository](https://github.com/MrMoDDoM/MuTag)
+
+## GitHub repos
+
+ - MuHack Badge: https://github.com/MrMoDDoM/MuHack-Badge
+ - MuTag: https://github.com/MrMoDDoM/MuTag
+
+## Something about us
+
+__MuHackis the first hackerspace in Brescia, Italy__. We are a bunch of people that like to hack, build and learn new things. We're a non-profit organization and we're always looking for new members. 
+
+If you want to know more about us, feel free to check our [website](http://muhack.org) and don't esitate to contact us.
+
+You can also find us on [Telegram](https://t.me/muhack).
