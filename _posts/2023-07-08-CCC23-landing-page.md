@@ -11,7 +11,7 @@ hidden: true
 
 # CCC23 - MuHack Badge and keychain
 
-So you stubled upon this strange circuit board and you want to know more about it? Well, you are in the right place!
+So you stumbled upon this strange circuit board and you want to know more about it? Well, you are in the right place!
 
 ## The MuHack Badge
 
@@ -26,15 +26,17 @@ Thanks to the BHI160(B) and the BMM150, the MuHack Badge can be used to measure 
 
 ![Badge startup](/public/img/2023-07-08-CCC23-landing-page-badge-rotate.gif)
 
-The board mounts also an __NFC ISO 15 chip, the ST25DV__, and antenna that can be used to store data and communicate with other devices. It is connected to the RP2040 using I2C, allowing the microcontroller to read and write data to it, as well as sending and receiving interrupts.
+*Note how the colors remain in the same position as the board is rotated*
 
-An __ESP32 module can be optionally mounted__ to enable bluetooth and WiFi communication. It can be used to stream data to a computer or a smartphone, as well as to connect to the internet.
+The board also mounts an __NFC ISO 15 chip, the ST25DV__, and antenna that can be used to store data and communicate with other devices. It is connected to the RP2040 using I2C, allowing the microcontroller to read and write data to it, as well as sending and receiving interrupts.
+
+An __ESP32 module can be optionally mounted__ to enable bluetooth and WiFi connectivity. It can be used to stream data to a computer or a smartphone, as well as connecting to the internet.
 
 It's a simple board, but thank to the many GPIO pins, it's hackable and it's a great way to learn how to program microcontrollers.
 
 ### How to use it
 
-First things first, you need to install __MicroPython__, by simply download and drag and drop the firmware file on the board. You can find the latest firmware [here](https://micropython.org/download/rp2-pico/).
+First things first, you need to install __MicroPython__, download and drag&drop the firmware file on the board. You can find the latest firmware [here](https://micropython.org/download/rp2-pico/).
 
 Then upload all the file within the `BOSS` folder of the official [MuHack Badge repository](https://github.com/MrMoDDoM/MuHack-Badge), and you are ready to go!
 
@@ -53,20 +55,25 @@ The MuTag is a small keychain featuring an __ATTiny44a__ microcontroller and an 
 
 Thanks to the __Energy Harvesting__ feature of the ST25DV, the MuTag can be __powered by the NFC field__ of a smartphone or a reader.
 
+![MuTag leds](/public/img/2023-07-08-CCC23-landing-page-mutag-leds.gif)
+
+
 From the MCU is it possible to access the NFC tag using I2C, to modify the tag's configuration and read/write data.
 
 ### How to use it
 
-For programming the MuTag, you need an __ISP programmer__ (such as the [USBasp](https://www.fischl.de/usbasp/) or the [USBtinyISP](https://learn.adafruit.com/usbtinyisp) from Adafruit) or a simple Arduino board, flashed with the ArduinoISP sketch.
+For programming the MuTag, you need an __ISP programmer__ (such as the [USBasp](https://www.fischl.de/usbasp/) or the [USBtinyISP](https://learn.adafruit.com/usbtinyisp) from Adafruit) or a [simple Arduino board](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP), flashed with the ArduinoISP sketch.
 
 Then, using the [Arduino IDE](https://www.arduino.cc/en/software) and the additional [ATTinyCore by SpenceKonde](https://github.com/SpenceKonde/ATTinyCore), simply program and upload a common Arduino sketch.
 
 For some reference code, check out the official [MuTag repository](https://github.com/MrMoDDoM/MuTag)
 
+> **[Don't forget to activate the Energy Harvesting feature of the ST25DV, otherwise the MuTag won't work!](https://github.com/MrMoDDoM/MuTag#activating-energy-harvesting-mode-with-the-st25-android-app)**
+
 ## GitHub repos
 
- - MuHack Badge: https://github.com/MrMoDDoM/MuHack-Badge
- - MuTag: https://github.com/MrMoDDoM/MuTag
+ - MuHack Badge: [https://github.com/MrMoDDoM/MuHack-Badge](https://github.com/MrMoDDoM/MuHack-Badge)
+ - MuTag: [https://github.com/MrMoDDoM/MuTag](https://github.com/MrMoDDoM/MuTag)
 
 ## Something about us
 
