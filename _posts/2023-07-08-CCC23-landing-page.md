@@ -6,7 +6,6 @@ categories: Events
 date: 2023-08-07
 author: MrMoDDoM
 header-img: /public/img/2022-12-20-custom-sticker.jpg
-hidden: true
 ---
 
 # CCC23 - MuHack Badge and keychain
