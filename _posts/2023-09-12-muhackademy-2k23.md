@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MuHackademy 2k23"
-subtitle: "Evento gratuito di divulgazione culturare"
+subtitle: "Evento gratuito di divulgazione culturale"
 categories: Events
 date: 2023-09-15
 author: dr-marco
@@ -40,9 +40,8 @@ _Sinossi generata con chatGPT in arrivo_
 
 ### __From CTF to real world PWN: hacking an Android app - Giovanni Cammisa__
 
-_Lunedì 16 Ottobre_:
-
-hack all the things, do opsec
+_Lunedì 16 Ottobre_: Le CTF sono un bel gioco, ma cosa succede quando il mondo reale è proprio come una CTF?
+Si parte per un'avventura in cui l'unica cosa da fare è ___drink all the booze and hack all the things___ (and do opsec, pls)!
 
 ### __Efficiently Coding with Julia - Alberto Tamburini__
 
