@@ -8,7 +8,7 @@ author: MrMoDDoM
 header-img: /public/img/2018-12-27-muhackademy-2k19.jpg
 ---
 
-Muhackademy è la tua opportunità per capire, liberamente e senza alcun obbligo di alcun tipo, quanto una tecnologia possa effettivamente esserti d'aiuto. Per tre venerdì sera, in due ore imparerai i rudimenti di programmazione, sicurezza informatica, sisntesi modulare, grafica 3D e tanto altro!
+Muhackademy è la tua opportunità per capire, liberamente e senza alcun obbligo di alcun tipo, quanto una tecnologia possa effettivamente esserti d'aiuto. Per tre venerdì sera, in due ore imparerai i rudimenti di programmazione, sicurezza informatica, sintesi modulare, grafica 3D e tanto altro!
 
 # Data ed ora dell'evento?
 Venerdì 22 Febbraio, 1 e 8 Marzo 2019, dalle 21 alle 23.
