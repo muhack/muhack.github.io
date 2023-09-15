@@ -53,7 +53,7 @@ Il tema verrà affrontato tramite l'analisi, esecuzione e confronto di esempi di
 _Martedì 17 Ottobre_: Perché ricreare da zero qualcosa che è già stato implementato, testato e ottimizzato?
 Vediamo cosa succede quando il concetto di Personal Computer viene smontato e riassemblato fisicamente in un dispositivo chiamato __Cyberdeck__.
 
-### __MuHack Badge - Daniele Brattieri__ 
+### __MuHack Badge - Daniele Barattieri__ 
 
 _Martedì 17 Ottobre_: Ripercorreremo insieme il processo di creazione del primo __Badge ufficiale di MuHack__, dalla scelta dei componenti alle difficoltà incontrate durante la produzione sino ad arrivare alla programmazione del firmware utilizzando MicroPython. 
 Se volete seguire con il vostro computer, assicuratevi di installare KiCad 7 e scaricare i file da [Github](https://github.com/MrMoDDoM/MuHack-Badge)
