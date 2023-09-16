@@ -34,9 +34,9 @@ E' un mondo molto diverso dalla classica programmazione; l'operazione di _descri
 
 ### __CTF Warfare: The Offensive and Defensive Battle - Christian Langellotti__
 
-_Lunedì 16 Ottobre_:
-
-_Sinossi generata con chatGPT in arrivo_ 
+_Lunedì 16 Ottobre_: Vi siete mai svegliati la mattina con un incredibile voglia di hackerare il server di qualcuno?
+Qualsiasi sia la vostra risposta vi dò il benvenuto nel magico mondo delle __CTF Attack and Defence__, un posto magico dove gli obiettivi sono hackerare il server degli avversari, divertirsi e fare divertire un sacco il pover'uomo che sta cercando di patchare! 
+In questo talk si parlerà di come si svolge una CTF A/D e di come funziona questo tipo di competizioni!
 
 ### __From CTF to real world PWN: hacking an Android app - Giovanni Cammisa__
 
