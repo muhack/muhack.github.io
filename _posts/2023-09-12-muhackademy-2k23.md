@@ -8,6 +8,7 @@ author: dr-marco
 header-img: /public/img/2023-09-15-muhackademy-2k23.png
 ---
 
+_EDIT_ : aggiunto le slides che hanno accompagnato ogni talk e i link alle dirette sul nostro canale [YouTube](https://www.youtube.com/@MuHack/streams)
 
 Come già anticipato nella school edition, finalmente dopo una lunga attesa torna l'evento di divulgazione principale di Muhack, il __MuHackademy__!
 
@@ -23,39 +24,53 @@ Ecco il volantino ufficiale
 ## Programma
 Per questa edizione vi proponiamo quanto segue:
 
+_Lunedì 16 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=tpdt9f6xBgE)
+
 ### __MARP: Ma Ancora Ricorri a PowerPoint – Marco De Ramundo__ 
 
-_Lunedì 16 Ottobre_: Se devi preparare una presentazione e LaTeX ti sembra troppo complicato mentre PowerPoint troppo macchinoso, hai mai pensato che può esistere uno strumento per scrivere le tue slide in linguaggio markdown? [__Marp__](https://marp.app/) è il tool flessibile che ti permette di creare la tua presentazione in poco tempo sfruttando tutti i vantaggi del linguaggio markdown.
+#### [SLIDES.pdf](/public/doc/muhackademy-2k23/marp_muhackademy.pdf) [SLIDES.html](/public/doc/muhackademy-2k23/marp_muhackademy.html) [CODICE.md](/public/doc/muhackademy-2k23/marp_muhackademy.md)
+
+ Se devi preparare una presentazione e LaTeX ti sembra troppo complicato mentre PowerPoint troppo macchinoso, hai mai pensato che può esistere uno strumento per scrivere le tue slide in linguaggio markdown? [__Marp__](https://marp.app/) è il tool flessibile che ti permette di creare la tua presentazione in poco tempo sfruttando tutti i vantaggi del linguaggio markdown.
 
 ### __How To Have Fun con Prolog - Xavier Perani__
 
-_Lunedì 16 Ottobre_: __Prolog__ è un linguaggio di programmazione logico, permette di ottenere dal calcolatore il risultato desiderato _descrivendo_ come sono logicamente relazionate le informazioni/entità partecipanti. 
+__Prolog__ è un linguaggio di programmazione logico, permette di ottenere dal calcolatore il risultato desiderato _descrivendo_ come sono logicamente relazionate le informazioni/entità partecipanti. 
 E' un mondo molto diverso dalla classica programmazione; l'operazione di _descrivere_ spesso obbliga il programmatore a soffermarsi su aspetti sostanziali del problema, e in questo processo capita di meravigliarsi (e divertirsi).
-
-### __CTF Warfare: The Offensive and Defensive Battle - Christian Langellotti__
-
-_Lunedì 16 Ottobre_: Vi siete mai svegliati la mattina con un incredibile voglia di hackerare il server di qualcuno?
-Qualsiasi sia la vostra risposta vi dò il benvenuto nel magico mondo delle __CTF Attack and Defence__, un posto magico dove gli obiettivi sono hackerare il server degli avversari, divertirsi e fare divertire un sacco il pover'uomo che sta cercando di patchare! 
-In questo talk si parlerà di come si svolge una CTF A/D e di come funziona questo tipo di competizioni!
 
 ### __From CTF to real world PWN: hacking an Android app - Giovanni Cammisa__
 
-_Lunedì 16 Ottobre_: Le CTF sono un bel gioco, ma cosa succede quando il mondo reale è proprio come una CTF?
+Le CTF sono un bel gioco, ma cosa succede quando il mondo reale è proprio come una CTF?
 Si parte per un'avventura in cui l'unica cosa da fare è ___drink all the booze and hack all the things___ (and do opsec, pls)!
+
+### __CTF Warfare: The Offensive and Defensive Battle - Christian Langellotti__ 
+
+#### [SLIDES](/public/doc/muhackademy-2k23/CTF_Warfare.pdf)
+
+Vi siete mai svegliati la mattina con un incredibile voglia di hackerare il server di qualcuno?
+Qualsiasi sia la vostra risposta vi dò il benvenuto nel magico mondo delle __CTF Attack and Defence__, un posto magico dove gli obiettivi sono hackerare il server degli avversari, divertirsi e fare divertire un sacco il pover'uomo che sta cercando di patchare! 
+In questo talk si parlerà di come si svolge una CTF A/D e di come funziona questo tipo di competizioni!
+
+_Martedì 17 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=-VhS_xPHV1Y)
 
 ### __Efficiently Coding with Julia - Alberto Tamburini__
 
-_Martedì 17 Ottobre_: È possibile sviluppare __codice efficiente__ programmando ad __alto livello__? Come? Che vantaggi e/o svantaggi comporta?
+#### [SLIDES](/public/doc/muhackademy-2k23/muHack_julia.pdf)
+
+È possibile sviluppare __codice efficiente__ programmando ad __alto livello__? Come? Che vantaggi e/o svantaggi comporta?
 Il tema verrà affrontato tramite l'analisi, esecuzione e confronto di esempi di codice in C, Python e soprattutto __Julia__.
 
 ### __Reinventare la ruota - Mattia Pescimoro__
 
-_Martedì 17 Ottobre_: Perché ricreare da zero qualcosa che è già stato implementato, testato e ottimizzato?
+#### [SLIDES](/public/doc/muhackademy-2k23/REINVENTARE_LA_RUOTA.pdf)
+
+Perché ricreare da zero qualcosa che è già stato implementato, testato e ottimizzato?
 Vediamo cosa succede quando il concetto di Personal Computer viene smontato e riassemblato fisicamente in un dispositivo chiamato __Cyberdeck__.
 
 ### __MuHack Badge - Daniele Barattieri__ 
 
-_Martedì 17 Ottobre_: Ripercorreremo insieme il processo di creazione del primo __Badge ufficiale di MuHack__, dalla scelta dei componenti alle difficoltà incontrate durante la produzione sino ad arrivare alla programmazione del firmware utilizzando MicroPython. 
+#### [SLIDES](/public/doc/muhackademy-2k23/MuHack_Badge.pdf)
+
+Ripercorreremo insieme il processo di creazione del primo __Badge ufficiale di MuHack__, dalla scelta dei componenti alle difficoltà incontrate durante la produzione sino ad arrivare alla programmazione del firmware utilizzando MicroPython. 
 Se volete seguire con il vostro computer, assicuratevi di installare KiCad 7 e scaricare i file da [Github](https://github.com/MrMoDDoM/MuHack-Badge)
 
 
@@ -76,7 +91,7 @@ __Assolutamente no__: tutto ciò che occorre è la tua buona volontà di ascolta
 Al fine dell'evento, rilasceremo il materiale presentato: slide, script e link. Troverai tutto nella descrizione di ciascun articolo dedicato.
 
 ## Posso seguire l'evento online?
-Certamente: ti aspettiamo in live sul nostro canale di [YouTube](https://www.youtube.com/channel/UC3NrDI9TYPBYz6pbUl3tqcA). Durante la live, potrai commentare e noi gireremo le tue domande al relatore: basta commentare nell'apposita chat che apparirà affianco al video della live. Facilissima da usare.
+Certamente: ti aspettiamo in live sul nostro canale di [YouTube](https://www.youtube.com/@MuHack/streams). Durante la live, potrai commentare e noi gireremo le tue domande al relatore: basta commentare nell'apposita chat che apparirà affianco al video della live. Facilissima da usare.
 
 ## Mi son perso l'evento: posso recuperare?
-Ebbene sì: alla fine del'evento apparirà una playlist con tutti i video delle serate. In una manciata di click, avrai a tua disposizione le 8 ore di formazione, gratuita e dedicata! Basta che [clicchi qui](https://www.youtube.com/channel/UC3NrDI9TYPBYz6pbUl3tqcA).
+Ebbene sì: alla fine del'evento apparirà una playlist con tutti i video delle serate. In una manciata di click, avrai a tua disposizione le 6 ore di formazione, gratuita e dedicata! Basta che [clicchi qui](https://www.youtube.com/@MuHack/streams).
