@@ -28,11 +28,13 @@ _Lunedì 16 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=tpdt9f
 
 ### __MARP: Ma Ancora Ricorri a PowerPoint – Marco De Ramundo__ 
 
-#### [SLIDES.pdf](/public/doc/muhackademy-2k23/marp_muhackademy.pdf) [SLIDES.html](/public/doc/muhackademy-2k23/marp_muhackademy.html) [CODICE.md](https://raw.githubusercontent.com/muhack/muhack.github.io/master/public/doc/muhackademy-2k23/marp_muhackademy.md)
+#### [SLIDES.pdf](/public/doc/muhackademy-2k23/marp_muhackademy.pdf) [SLIDES.html](/public/doc/muhackademy-2k23/marp_muhackademy.html) [CODICE.md](https://raw.githubusercontent.com/dr-marco/marp_muhackademy/main/marp_muhackademy.md)
 
  Se devi preparare una presentazione e LaTeX ti sembra troppo complicato mentre PowerPoint troppo macchinoso, hai mai pensato che può esistere uno strumento per scrivere le tue slide in linguaggio markdown? [__Marp__](https://marp.app/) è il tool flessibile che ti permette di creare la tua presentazione in poco tempo sfruttando tutti i vantaggi del linguaggio markdown.
 
 ### __How To Have Fun con Prolog - Xavier Perani__
+
+#### [SLIDES](/public/doc/muhackademy-2k23/How_To_Have_Fun.pdf)
 
 __Prolog__ è un linguaggio di programmazione logico, permette di ottenere dal calcolatore il risultato desiderato _descrivendo_ come sono logicamente relazionate le informazioni/entità partecipanti. 
 E' un mondo molto diverso dalla classica programmazione; l'operazione di _descrivere_ spesso obbliga il programmatore a soffermarsi su aspetti sostanziali del problema, e in questo processo capita di meravigliarsi (e divertirsi).
