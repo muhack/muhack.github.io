@@ -41,6 +41,8 @@ E' un mondo molto diverso dalla classica programmazione; l'operazione di _descri
 
 ### __From CTF to real world PWN: hacking an Android app - Giovanni Cammisa__
 
+#### [SLIDES](/public/doc/muhackademy-2k23/From_CTF_to_real_world_PWN.pdf)
+
 Le CTF sono un bel gioco, ma cosa succede quando il mondo reale è proprio come una CTF?
 Si parte per un'avventura in cui l'unica cosa da fare è ___drink all the booze and hack all the things___ (and do opsec, pls)!
 
