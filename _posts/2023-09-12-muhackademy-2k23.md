@@ -28,7 +28,7 @@ _Lunedì 16 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=tpdt9f
 
 ### __MARP: Ma Ancora Ricorri a PowerPoint – Marco De Ramundo__ 
 
-#### [SLIDES.pdf](/public/doc/muhackademy-2k23/marp_muhackademy.pdf) [SLIDES.html](/public/doc/muhackademy-2k23/marp_muhackademy.html) [CODICE.md](/public/doc/muhackademy-2k23/marp_muhackademy.md)
+#### [SLIDES.pdf](/public/doc/muhackademy-2k23/marp_muhackademy.pdf) [SLIDES.html](/public/doc/muhackademy-2k23/marp_muhackademy.html) [CODICE.md](https://raw.githubusercontent.com/muhack/muhack.github.io/master/public/doc/muhackademy-2k23/marp_muhackademy.md)
 
  Se devi preparare una presentazione e LaTeX ti sembra troppo complicato mentre PowerPoint troppo macchinoso, hai mai pensato che può esistere uno strumento per scrivere le tue slide in linguaggio markdown? [__Marp__](https://marp.app/) è il tool flessibile che ti permette di creare la tua presentazione in poco tempo sfruttando tutti i vantaggi del linguaggio markdown.
 
