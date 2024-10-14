@@ -56,7 +56,7 @@ Preparati a entrare nel mondo nascosto delle app Android! In questo talk, ti mos
 
 ### __Null Pointer Exception - Daniele Barattieri e Mattia Pescimoro__
 
-_TBA_
+Come il tentativo di accedere a qualcosa che non esiste può diventare un'opportunità inaspettata; creare dal nulla e dare vita a ciò che prima non esisteva.
 
 
 _Martedì 23 Ottobre_:
@@ -76,10 +76,10 @@ Auguri a noi!
 
 Ci trovi __nell'aula Polifunzionale presso il CedIsu__, in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](https://goo.gl/maps/cxAs66G3Kqm).
 
-* `<span class="fa fa-1x fa-train">` *Treno* - Scendi alla Stazione di Brescia, nel piazzale prosegui a destra, raggiungendo la stazione della metro (aperta fino a mezzanotte).
-* `<span class="fa fa-1x fa-subway">` *Metro* - Scendi alla Fermata Europa, attraversa Via Branze (verso il parcheggio prospicente la stazione della metro).
-* `<span class="fa fa-1x fa-bus">` *Autobus* - Linea 16 e 10 in Via Branze, risali sino al campo da baseball ed entra nel parcheggio.
-* `<span class="fa fa-1x fa-car">` *Auto* - Parcheggia in zona.
+* <span class="fa fa-1x fa-train"> *Treno* - Scendi alla Stazione di Brescia, nel piazzale prosegui a destra, raggiungendo la stazione della metro (aperta fino a mezzanotte).
+* <span class="fa fa-1x fa-subway"> *Metro* - Scendi alla Fermata Europa, attraversa Via Branze (verso il parcheggio prospicente la stazione della metro).
+* <span class="fa fa-1x fa-bus"> *Autobus* - Linea 16 e 10 in Via Branze, risali sino al campo da baseball ed entra nel parcheggio.
+* <span class="fa fa-1x fa-car"> *Auto* - Parcheggia in zona.
 
 Una volta giunto nei pressi di Via Branze-rotonda-viale Europa, attraversa tutto il parcheggio ed entra dal cancello posto alla fine di esso. Segui la pedana e prosegui lungo il vialetto. Volta verso il cancello e sali le scale a sinistra: troverai la locandina affissa alla "casetta gialla". Entra, saremo lì!
 
