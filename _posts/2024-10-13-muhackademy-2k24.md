@@ -3,9 +3,9 @@ layout: post
 title: "MuHackademy 2k24"
 subtitle: "Evento gratuito di divulgazione culturale"
 categories: Events
-date: 2024-10-13
-author: Lange99
-header-img: /public/img/2024-10-13-muhackademy-2k24.png
+date: 2024-10-21
+author: Lange99 & dr-marco
+header-img: /public/img/2024-10-13-muhackademy-2k24s.png
 ---
 **In occasione del nostro decimo anniversario, siamo entusiasti di annunciare l'edizione speciale di  *MuHackademy 2k24* !** Tre giorni dedicati alla condivisione della nostra passione per la tecnologia, la sicurezza informatica e lo spirito hacker, con un programma arricchito da talk inediti e momenti di celebrazione.
 
@@ -15,11 +15,17 @@ Non perdere questa occasione per imparare, divertirti e festeggiare con noi un d
 
 **Lunedì 21 e Martedì 22 Ottobre**, dalle **20:30 alle 23:30** In **Aula Polifunzionale Cedisu**.
 
-**Mercoledì 23 Ottobre dalle 19:00** in **Via Fratelli Bronzetti 9, Brescia**
+<blockquote style="background: #ffed85;">
+<big><strong>Attenzione!</strong>: A causa di problemi di forza maggiore siamo costretti a organizzare la festa del 23 Ottobre in <strong>Aula Associazioni Cedisu</strong> 
+
+Ci scusiamo per il disagio</big>
+</blockquote>
+
+**Mercoledì 23 Ottobre dalle 19:00** in ~~Via Fratelli Bronzetti 9~~ **Aula Associazioni CEDISU, Brescia**
 
 Ecco il volantino ufficiale
 
-![Volantino](/public/img/2024-10-13-muhackademy-2k24.png)
+![Volantino](/public/img/2024-10-13-muhackademy-2k24s.png)
 
 ## Programma
 
@@ -74,7 +80,7 @@ Auguri a noi!
 
 ## Dove e come posso raggiungervi?
 
-Ci trovi __nell'aula Polifunzionale presso il CedIsu__, in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](https://goo.gl/maps/cxAs66G3Kqm).
+Ci trovi __nell'aula Polifunzionale e nell'aula Associazioni presso il CedIsu__, in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](https://goo.gl/maps/cxAs66G3Kqm).
 
 * <span class="fa fa-1x fa-train"> *Treno* - Scendi alla Stazione di Brescia, nel piazzale prosegui a destra, raggiungendo la stazione della metro (aperta fino a mezzanotte).
 * <span class="fa fa-1x fa-subway"> *Metro* - Scendi alla Fermata Europa, attraversa Via Branze (verso il parcheggio prospicente la stazione della metro).
@@ -82,9 +88,6 @@ Ci trovi __nell'aula Polifunzionale presso il CedIsu__, in Via Valotti 3, Mompia
 * <span class="fa fa-1x fa-car"> *Auto* - Parcheggia in zona.
 
 Una volta giunto nei pressi di Via Branze-rotonda-viale Europa, attraversa tutto il parcheggio ed entra dal cancello posto alla fine di esso. Segui la pedana e prosegui lungo il vialetto. Volta verso il cancello e sali le scale a sinistra: troverai la locandina affissa alla "casetta gialla". Entra, saremo lì!
-
-
-Mentre per il 23 Ottobre[ puoi trovarci qui](https://maps.app.goo.gl/bsUNzNhWQ81EsmuX8)!
 
 
 ## Servono delle conoscenze particolari?
