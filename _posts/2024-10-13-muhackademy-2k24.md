@@ -31,7 +31,7 @@ Ecco il volantino ufficiale
 
 Per questa edizione vi proponiamo quanto segue:
 
-_Lunedì 21 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=tpdt9f6xBgE)
+_Lunedì 21 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=G3T6IhDe1iI)
 
 ### __BLINDO - Elena Tonini e Stefano Fontana__
 
@@ -50,7 +50,7 @@ Trovare casa nelle metropoli può essere un lungo incubo che assorbe tempo ed en
 
 Il set di istruzioni x86 conta oltre 1500 comandi, rendendolo troppo complesso per una diretta implementazione hardware. Le CPU, invece, utilizzano internamente un altro set di istruzioni, noto come microcodice, che serve a tradurre e implementare le istruzioni x86. In questo talk esploreremo il funzionamento del microcodice, il processo di traduzione da x86 a microcodice e come avviene l'aggiornamento di quest'ultimo. Concluderemo con alcuni esperimenti di voltage glitching.
 
-_Martedì 22 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=-VhS_xPHV1Y)
+_Martedì 22 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=G3T6IhDe1iI)
 
 ### __Inkscape a martellate - Mattia Pescimoro__
 
