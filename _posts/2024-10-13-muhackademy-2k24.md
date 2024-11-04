@@ -35,6 +35,8 @@ _Lunedì 21 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=rydEXf
 
 ### __BLINDO - Elena Tonini e Stefano Fontana__
 
+#### [SLIDES](/public/doc/muhackademy-2k24/blindo_occhio_alla_mano.pdf)
+
 Immagina di essere in prima elementare e di essere non vedente. Il tuo materiale didattico è diverso da quello dei tuoi compagni di classe e devi imparare a leggere e scrivere in braille con l’aiuto di maestri, genitori e tutor.
 Immagina ora un quaderno che ti permette di imparare tutto da solo: questo è Blindo.
 
@@ -44,9 +46,13 @@ Unisciti a noi per scoprire come questo progetto sta già cambiando l'educazione
 
 ### __Trovare casa (tramite webscraping) - Alberto Tamburini__
 
+#### [SLIDES](/public/doc/muhackademy-2k24/webscraping.pdf)
+
 Trovare casa nelle metropoli può essere un lungo incubo che assorbe tempo ed energie psicofisiche. Le truffe sono all'ordine del giorno, soprattutto nei marketplace non specializzati (e.g., facebook). Fortunatamente esistono dei siti web specializzati dove il locatore è identificato e sono presenti appositi filtri per ridurre lo spazio di ricerca e quindi il tempo impiegato. Esploreremo qui degli strumenti di automazione per ridurre ulteriormente il tempo impiegato tramite un esempio applicativo.
 
 ### __Microcode: x86 asm is high level - ceres-c__
+
+#### [SLIDES](/public/doc/muhackademy-2k24/Cerutti_MuHackademy_Microcode.pdf)
 
 Il set di istruzioni x86 conta oltre 1500 comandi, rendendolo troppo complesso per una diretta implementazione hardware. Le CPU, invece, utilizzano internamente un altro set di istruzioni, noto come microcodice, che serve a tradurre e implementare le istruzioni x86. In questo talk esploreremo il funzionamento del microcodice, il processo di traduzione da x86 a microcodice e come avviene l'aggiornamento di quest'ultimo. Concluderemo con alcuni esperimenti di voltage glitching.
 
@@ -54,9 +60,13 @@ _Martedì 22 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=0heXF
 
 ### __Inkscape a martellate - Mattia Pescimoro__
 
+#### [SLIDES (open with inkscape for a very human experience)](/public/doc/muhackademy-2k24/a-very-human-talk.svg)
+
 Una chiacchierata su inkscape e sulla grafica vettoriale dove parleremo di cosa sono e vedremo come approcciarli in modo pratico (che il software lo voglia o no).
 
 ### __GTA: Grand Theft App - Christian Langellotti__
+
+#### [SLIDES](/public/doc/muhackademy-2k24/gta.pdf) e [REPO APP DI ESEMPIO](https://github.com/Lange99/grand_theft_app)
 
 Preparati a entrare nel mondo nascosto delle app Android! In questo talk, ti mostrerò come si possono scoprire "aumm aumm" chiavi e segreti nascosti dentro un'app!
 
