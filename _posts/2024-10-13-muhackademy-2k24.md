@@ -15,12 +15,6 @@ Non perdere questa occasione per imparare, divertirti e festeggiare con noi un d
 
 **Lunedì 21 e Martedì 22 Ottobre**, dalle **20:30 alle 23:30** In **Aula Polifunzionale Cedisu**.
 
-<blockquote style="background: #ffed85;">
-<big><strong>Attenzione!</strong>: A causa di problemi di forza maggiore siamo costretti a organizzare la festa del 23 Ottobre in <strong>Aula Associazioni Cedisu</strong> 
-
-Ci scusiamo per il disagio</big>
-</blockquote>
-
 **Mercoledì 23 Ottobre dalle 19:00** in ~~Via Fratelli Bronzetti 9~~ **Aula Associazioni CEDISU, Brescia**
 
 Ecco il volantino ufficiale
