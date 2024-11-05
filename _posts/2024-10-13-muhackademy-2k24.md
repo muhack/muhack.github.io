@@ -60,7 +60,9 @@ _Martedì 22 Ottobre_: [Live della serata](https://www.youtube.com/watch?v=0heXF
 
 ### __Inkscape a martellate - Mattia Pescimoro__
 
-#### [SLIDES (open with inkscape for a very human experience)](/public/doc/muhackademy-2k24/a-very-human-talk.svg)
+#### [SLIDES SVG (open with inkscape for a very human experience)](/public/doc/muhackademy-2k24/a-very-human-talk.svg)
+
+#### [SLIDES PDF](/public/doc/muhackademy-2k24/a-very-human-talk.pdf)
 
 Una chiacchierata su inkscape e sulla grafica vettoriale dove parleremo di cosa sono e vedremo come approcciarli in modo pratico (che il software lo voglia o no).
 
