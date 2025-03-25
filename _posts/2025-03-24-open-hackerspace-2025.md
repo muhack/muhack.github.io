@@ -29,7 +29,7 @@ La collaborazione con mittelab, nello specifico, si realizzerà in:
 ## A chi è aperto?
 A hacker esperti e chiunque voglia respirare l'aria di un hackerspace per capire cosa si faccia qui. Tutti sono benvenuti!
 
-![Vieni a trovarci](/public/img/2025-03-24-visit-us.png)
+![Vieni a trovarci](/public/img/2025-03-24-hackerspace-day.png)
 
 ## Dove e come posso raggiungervi?
 Ci trovi __nell'aula Associazioni presso il CedIsu__, in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](https://goo.gl/maps/cxAs66G3Kqm).
