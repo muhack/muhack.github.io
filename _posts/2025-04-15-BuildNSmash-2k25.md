@@ -1,64 +1,68 @@
 ---
 layout: post
 title: "Build 'N' Smash"
-subtitle: "Costruisci. Combatti. Impara."
+subtitle: "Costruisci. Impara. Distruggi."
 categories: Events
 date: 2025-04-14
-author: Luca Lamanna
-header-img: /public/img/2025-04-14-buildnsmash.png
+author: Luca Lamanna & Davide Strabla
+header-img: /public/img/2025-04-15-BuildnSmash-2025.png
+
 ---
 
-**Build 'N' Smash** è l’evento targato MuHack in collaborazione con Hero Mechatronics SRL, dove la teoria incontra l’arena.  
-Costruisci il tuo robot da combattimento, testalo, e buttati nella mischia: una vera esperienza hands-on per hacker, smanettoni e futuri ingegneri delle tenebre.
+**Build 'N' Smash** è l’evento targato MuHack, in collaborazione con Hero Mechatronics SRL, dove la teoria incontra la pratica.  
+Costruisci il tuo robot da combattimento, testalo, e buttati nella mischia: una vera esperienza hands-on per tutti, appassionati e neofiti.
 
 ---
 
 # 🔧 Cosa prevede l’evento?
 
-## 🚀 Lezioni formative
-Sessioni dedicate alla progettazione e costruzione di *battlebot* nella categoria **simil-antweight**: max 450g di pura cattiveria e un volume massimo di 8L.  
-Parleremo di progettazione intelligente, sicurezza e design orientato al combattimento.
+## 📚 Lezioni formative
+Sessioni dedicate alla progettazione e costruzione di *battlebot* nella categoria **simil-antweight** per un peso massimo di 450g.  
+Parleremo di progettazione intelligente, sicurezza e design orientato al combattimento, entrando negli aspetti tecnici di informatica, elettronica e robotica.
 
 ## 🔩 Laboratorio e montaggio
-Avrai accesso a una **toolbox reale**, con strumenti base (viteria, cacciaviti ecc.) e servizi avanzati come **stampa 3D**.  
-Non portare nulla, tranne la voglia di imparare e qualche idea fuori di testa.
 
-## 🧪 Collaudo e revisione
-Questa fase è a cura dello staff MuHack e dei tecnici Hero Mechatronics: ci assicuriamo che tutto sia sicuro per gli esseri umani (i robot invece... si arrangiano).
+A seguito delle lezioni sarà possibile costruire il robot da te progettato!  
+Verranno forniti strumenti di base come viteria e cacciaviti. Inoltre, metteremo a disposizione una stampante 3D per la realizzazione del telaio. 
 
 ## 🤖 Torneo finale
-8 squadre, 3 membri per team. Costruisci il tuo robot, mettilo alla prova in una vera **arena di combattimento**, e sfida gli altri team per la gloria, la tecnica e il puro spettacolo.
+Costruite il vostro robot e mettetelo alla prova in una vera **arena di combattimento**, sfidando gli avversari in un emozionante **girone all’italiana** dove ogni squadra affronterà tutte le altre!.  
+Battetevi; per la gloria e per lo spettacolo!
 
 ---
 
-# 🎓 Perché partecipare?
+# 📝 Regolamento ed iscrizioni
 
-- Impari progettazione, elettronica, meccatronica.
+Una volta letto il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf) compilate il form di iscrizione: [link form iscrizione](https://docs.google.com/forms/d/e/1FAIpQLScezQ4u0sGTb1wDy6f-aYw-Okjpp7RLxCEY8X-mlNVMt6c-AA/viewform?usp=dialog).  
+La partecipazione è gratuita, ma i posti sono limitati. 
+Solo **8 squadre – 3 persone per team.**  
+
+Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email della nostra associazione: [info@muhack.org](mailto:info@muhack.org)!
+
+---
+
+## 🎓 Perché partecipare?
+
+- Impari progettazione, elettronica e robotica.
 - Usi strumenti veri su progetti concreti.
-- Lavori in squadra, sbagli e migliori.
-- Porti a casa nuove skill e qualche livido sull’ego.
-- Aggiungi un’esperienza *spaccacv* al tuo percorso.
+- Lavori in squadra e, se sbagli, migliori.
+- Porti a casa nuove skill, e anche qualche livido all'ego.
 
 ---
 
-# 📅 Quando e dove?
+## 📅 Quando e dove?
 
-🗓️ **(Inserisci qui la data e l’orario)**  
-📍 **(Inserisci qui il luogo, con link mappa se possibile)**
+**LEZIONI FORMATIVE:**
 
----
-
-# 📝 Come iscriversi?
-
-**Solo 8 squadre – 3 persone per team.**  
-La partecipazione è gratuita, ma i posti sono limitati.  
-📌 **(Inserisci link al form d’iscrizione o contatti)**
+🗓️ **8-9-15-16 Maggio**  
+⌚ **17:00** - **19:30**  
+📍 **Aula B2.8, Via Branze 43**
 
 ---
 
-# 🚀 Come raggiungerci?
+## 🚀 Come raggiungerci?
 
-Ci trovi in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](https://goo.gl/maps/cxAs66G3Kqm).
+Ci trovi in Via Senatore Diogene Valotti, 3b, Brescia [clicca qui per vedere la mappa](https://maps.app.goo.gl/WpPe7QCL2RA4hPRW9).
 
 * <span class="fa fa-1x fa-train"> *Treno*</span> – Stazione di Brescia → Metro (direzione Prealpino)
 * <span class="fa fa-1x fa-subway"> *Metro*</span> – Fermata Europa → attraversa Via Branze, entra nel parcheggio
@@ -69,21 +73,14 @@ Ci trovi in Via Valotti 3, Mompiano, Brescia, [clicca qui per vedere la mappa](h
 
 ---
 
-# 🧠 Serve preparazione?
+## 🧠 Serve preparazione?
 
 Assolutamente no.  
-Parti da zero? Nessun problema. Ti aiutiamo noi. L’importante è la voglia di sporcarsi le mani e imparare.
+Parti da zero? Nessun problema. Ti aiutiamo noi. L’importante è la voglia di sporcarsi le mani e di imparare.
 
 ---
 
-# 📂 Materiale dell’evento
-
-Alla fine dell’evento, condivideremo con te le **slide, i materiali di progettazione e i file utili**.  
-Stay tuned sul nostro [GitHub](https://github.com/muhack) e canali ufficiali.
-
----
-
-### 🎓 Evento realizzato con il supporto dell'Università degli Studi di Brescia
+# 🎓 Evento realizzato con il supporto dell'Università degli Studi di Brescia
 
 Build 'N' Smash è realizzato con il sostegno del bando per attività studentesche dell’Università degli Studi di Brescia.  
 Un ringraziamento all’ateneo per il supporto e la fiducia nelle iniziative che promuovono competenze tecniche e crescita professionale.
