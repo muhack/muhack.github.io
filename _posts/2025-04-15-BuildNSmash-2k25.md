@@ -60,18 +60,15 @@ Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo emai
 
 ---
 
-## 🚀 Come raggiungerci?
+<!-- ## 🚀 Come raggiungerci?
 
-Ci trovi in Via Senatore Diogene Valotti, 3b, Brescia [clicca qui per vedere la mappa](https://maps.app.goo.gl/WpPe7QCL2RA4hPRW9).
+Per qualsiasi dubbio o richiesta puoi trovarci in sede; ci trovi in Via Senatore Diogene Valotti, 3b, Brescia [clicca qui per vedere la mappa](https://maps.app.goo.gl/WpPe7QCL2RA4hPRW9).
 
 * <span class="fa fa-1x fa-train"> *Treno*</span> – Stazione di Brescia → Metro (direzione Prealpino)
 * <span class="fa fa-1x fa-subway"> *Metro*</span> – Fermata Europa → attraversa Via Branze, entra nel parcheggio
 * <span class="fa fa-1x fa-bus"> *Bus*</span> – Linee 16 e 10, fermata in Via Branze
 * <span class="fa fa-1x fa-car"> *Auto*</span> – Ampio parcheggio disponibile
-
-🚶‍♂️ Una volta lì, segui la pedana, attraversa il vialetto, sali le scale accanto al cancello: ci trovi nella "casetta gialla".
-
----
+-->
 
 ## 🧠 Serve preparazione?
 
