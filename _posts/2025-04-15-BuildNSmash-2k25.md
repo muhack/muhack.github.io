@@ -9,44 +9,62 @@ header-img: /public/img/2025-04-15-BuildnSmash-2025.png
 
 ---
 
-**Build 'N' Smash** è l’evento targato MuHack, in collaborazione con Hero Mechatronics SRL, dove la teoria incontra la pratica.  
-Costruisci il tuo robot da combattimento, testalo, e buttati nella mischia: una vera esperienza hands-on per tutti, appassionati e neofiti.
+**Build ‘N’ Smash** è l’evento targato **MuHack**, in collaborazione con **Hero Mechatronics SRL**, pensato per chi ha sempre avuto la curiosità di costruire un robot da combattimento… e magari anche vederlo fatto a pezzi.  
+È un’esperienza completa hands-on, che unisce teoria e pratica. Ideale sia per chi è alle prime armi sia per chi già smanetta con elettronica e informatica.  
+L’evento si compone di **due parti principali**:
+
+🧑‍💻 **Il corso di formazione e montaggio**, pensato per chi vuole imparare come si progetta e si costruisce un *battlebot*. Ci saranno lezioni su progettazione meccanica, stampa 3D, elettronica e informatica, con la possibilità di vedere il tuo robot prendere vita durante il corso di montaggio.
+
+> ⚠️ **Attenzione**: i posti per il corso sono **limitati a 24 persone**, quindi iscriviti in fretta se vuoi partecipare!
+
+🤖 **Il torneo di combattimento** che, inoltre, è **aperto a tutti**! Che tu abbia costruito il tuo robot durante il corso o lo porti già pronto da casa, potrai metterti alla prova nell’arena.
+
+> ⚠️ **Attenzione**: i robot devono rispettare il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf) per poter partecipare
+
 
 ---
 
-# 🔧 Cosa prevede l’evento?
+# Come si articolano le attività:
 
 ## 📚 Lezioni formative
-Sessioni dedicate alla progettazione e costruzione di *battlebot* nella categoria **simil-antweight** per un peso massimo di 450g.  
-Parleremo di progettazione intelligente, sicurezza e design orientato al combattimento, entrando negli aspetti tecnici di informatica, elettronica e robotica.
+Si faranno otto lezioni dove si affronteranno gli argomenti essenziali per la progettazione e realizzazione di un robot da *battlebot* nella categoria **simil-antweight**.  
+Parleremo di progettazione del design orientato al combattimento, entrando negli aspetti tecnici di informatica, elettronica e robotica.  
+Tutto il materiale visto nelle lezioni verrà fornito ai partecipanti.
 
 ## 🔩 Laboratorio e montaggio
 
 A seguito delle lezioni sarà possibile costruire il robot da te progettato!  
-Verranno forniti strumenti di base come viteria e cacciaviti. Inoltre, metteremo a disposizione una stampante 3D per la realizzazione del telaio. 
+Stamperemo in 3d il telaio da voi progettato, e verranno forniti strumenti di base come viteria e cacciaviti per poter realizzare il proprio *battlebot*.  
 
 ## 🤖 Torneo finale
-Costruite il vostro robot e mettetelo alla prova in una vera **arena di combattimento**, sfidando gli avversari in un emozionante **girone all’italiana** dove ogni squadra affronterà tutte le altre!.  
-Battetevi; per la gloria e per lo spettacolo!
+Costruite il vostro robot e mettetevi alla prova in una vera **arena di combattimento**, sfidando gli avversari in uno spietato scontro all'ultimo circuito.  
+Il torneo seguirà la formula del girone all’italiana dove ogni robot affronterà i robot avversari.  
+Battetevi! Per la gloria e per lo spettacolo!
 
 ---
 
 # 📝 Regolamento ed iscrizioni
 
-Una volta letto il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf) compilate il form di iscrizione: [link form iscrizione](https://docs.google.com/forms/d/e/1FAIpQLScezQ4u0sGTb1wDy6f-aYw-Okjpp7RLxCEY8X-mlNVMt6c-AA/viewform?usp=dialog).  
-La partecipazione è gratuita, ma i posti sono limitati. 
-Solo **8 squadre – 3 persone per team.**  
+Di seguito è possibile compilare i form d'iscrizione:
 
-Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email della nostra associazione: [info@muhack.org](mailto:info@muhack.org)!
+- [al corso](https://forms.gle/VcpkFrfv72h47gKS9).
+- [al torneo](https://forms.gle/ERd7RZpdRULYKNHR6).
+
+> **N.B**: l'iscrizione al corso è valida anche per il torneo, dunque **<u>non</u>** necessaria se si è già iscritti al corso. 
+
+La partecipazione al corso è gratuita, ma i posti sono limitati a **8 squadre formate da 3 persone per team.**  
+La partecipazione al torneo è gratuita, tuttavia è necessario che i robot rispettino il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf).
+
+Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email della nostra associazione: [info@muhack.org](mailto:info@muhack.org)!  
 
 ---
 
 ## 🎓 Perché partecipare?
 
-- Impari progettazione, elettronica e robotica.
-- Usi strumenti veri su progetti concreti.
-- Lavori in squadra e, se sbagli, migliori.
-- Porti a casa nuove skill, e anche qualche livido all'ego.
+- Imparare progettazione, elettronica e robotica.
+- Usare strumenti veri su progetti concreti.
+- Lavorare in squadra e, se sbagli, migliori.
+- Portare a casa nuove skill, e anche qualche livido all'ego.
 
 ---
 
@@ -58,22 +76,23 @@ Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo emai
 ⌚ **17:00** - **19:30**  
 📍 **Aula B2.8, Via Branze 43**
 
+**TORNEO:**  
+
+🗓️ Questo **settembre** con date precise da definirsi
+
 ---
 
-<!-- ## 🚀 Come raggiungerci?
+## 🚀 Come raggiungerci?
 
-Per qualsiasi dubbio o richiesta puoi trovarci in sede; ci trovi in Via Senatore Diogene Valotti, 3b, Brescia [clicca qui per vedere la mappa](https://maps.app.goo.gl/WpPe7QCL2RA4hPRW9).
+Puoi trovarci in [Via Senatore Diogene Valotti, 3b, Brescia](https://maps.app.goo.gl/WpPe7QCL2RA4hPRW9) tutti i martedì sera nell'aula associazioni.  
+Puoi raggiungerci tramite:
 
 * <span class="fa fa-1x fa-train"> *Treno*</span> – Stazione di Brescia → Metro (direzione Prealpino)
 * <span class="fa fa-1x fa-subway"> *Metro*</span> – Fermata Europa → attraversa Via Branze, entra nel parcheggio
 * <span class="fa fa-1x fa-bus"> *Bus*</span> – Linee 16 e 10, fermata in Via Branze
 * <span class="fa fa-1x fa-car"> *Auto*</span> – Ampio parcheggio disponibile
--->
 
-## 🧠 Serve preparazione?
-
-Assolutamente no.  
-Parti da zero? Nessun problema. Ti aiutiamo noi. L’importante è la voglia di sporcarsi le mani e di imparare.
+Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email della nostra associazione: [info@muhack.org](mailto:info@muhack.org)!  
 
 ---
 
