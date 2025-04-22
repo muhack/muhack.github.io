@@ -31,26 +31,26 @@ Si faranno otto lezioni dove si affronteranno gli argomenti essenziali per la pr
 Parleremo di progettazione del design orientato al combattimento, entrando negli aspetti tecnici di informatica, elettronica e robotica.  
 Tutto il materiale visto nelle lezioni verrà fornito ai partecipanti.
 
-## 🔩 Laboratorio e montaggio
+## 🔩 Laboratorio e Montaggio
 
 A seguito delle lezioni sarà possibile costruire il robot da te progettato!  
 Stamperemo in 3d il telaio da voi progettato, e verranno forniti strumenti di base come viteria e cacciaviti per poter realizzare il proprio *battlebot*.  
 
-## 🤖 Torneo finale
+## 🤖 Torneo Finale
 Costruite il vostro robot e mettetevi alla prova in una vera **arena di combattimento**, sfidando gli avversari in uno spietato scontro all'ultimo circuito.  
 Il torneo seguirà la formula del girone all’italiana dove ogni robot affronterà i robot avversari.  
 Battetevi! Per la gloria e per lo spettacolo!
 
 ---
 
-# 📝 Regolamento ed iscrizioni
+# 📝 Regolamento e Iscrizioni
 
 Di seguito è possibile compilare i form d'iscrizione:
 
 - [al corso](https://forms.gle/VcpkFrfv72h47gKS9).
 - [al torneo](https://forms.gle/ERd7RZpdRULYKNHR6).
 
-> **N.B**: l'iscrizione al corso è valida anche per il torneo, dunque **<u>non</u>** necessaria se si è già iscritti al corso. 
+> **N.B**: l'iscrizione al corso è valida anche per il torneo, dunque **<u>non</u>** è necesseriario compilare il modulo dedicato al torne.
 
 La partecipazione al corso è gratuita, ma i posti sono limitati a **8 squadre formate da 3 persone per team.**  
 La partecipazione al torneo è gratuita, tuttavia è necessario che i robot rispettino il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf).
