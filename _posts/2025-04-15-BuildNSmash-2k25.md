@@ -52,7 +52,7 @@ Di seguito è possibile compilare i form d'iscrizione:
 
 > **N.B**: l'iscrizione al corso è valida anche per il torneo, dunque **<u>non</u>** è necesseriario compilare il modulo dedicato al torne.
 
-La partecipazione al corso è gratuita, ma i posti sono limitati a **8 squadre formate da 3 persone per team.** Con la partecipazione al corso vi verranno forniti gratuitamente anche i componenti del robot (Motori, Microcontrollore ecc...)
+La partecipazione al corso è gratuita, ma i posti sono limitati a **8 squadre formate da 3 persone per team.** Con la partecipazione al corso vi verranno forniti gratuitamente anche i componenti del robot (Motori, Microcontrollore ecc...)  
 La partecipazione al torneo è gratuita, tuttavia non sarrano forniti i componenti (mototi, Microcontrollore ecc...) e i robot dovranno rispettare ugualmente rispettino il [regolamento](/public/doc/regolamento-hack-n-smash-2025.pdf).
 
 Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo email della nostra associazione: [info@muhack.org](mailto:info@muhack.org)!  
