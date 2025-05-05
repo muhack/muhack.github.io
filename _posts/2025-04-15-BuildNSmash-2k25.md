@@ -73,7 +73,7 @@ Per qualsiasi domanda o chiarimento non esitate a contattarci all'indirizzo emai
 **LEZIONI FORMATIVE:**
 
 🗓️ **8-9-15-16 Maggio**  
-⌚ **17:00** - **19:30**  
+⌚ **17:00** - **18:30**  
 📍 **Aula B2.8, Via Branze 43**
 
 **TORNEO:**  
