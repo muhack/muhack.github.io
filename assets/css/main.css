@@ -444,11 +444,10 @@ footer{position:relative;z-index:5;background:var(--void);color:var(--chrome);cl
 .schedule-card .value{font-family:'Bebas Neue',sans-serif;font-size:1.5rem;color:var(--text-primary);line-height:1.1}
 .schedule-card .value span{color:var(--accent)}
 .cta-row{display:flex;gap:1rem;margin-top:1.5rem;flex-wrap:wrap}
-.btn-primary{display:inline-flex;align-items:center;gap:.6rem;background:var(--accent);border:none;color:var(--accent-on-dark);padding:.9rem 1.4rem;text-decoration:none;font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em;clip-path:polygon(0 0,calc(100% - 10px) 0,100% 100%,0 100%);transition:all .2s}
-.btn-primary:hover{background:var(--void);color:var(--white);padding-right:1.8rem}
-.btn-secondary{display:inline-flex;align-items:center;gap:.6rem;background:var(--white);border:none;color:var(--void);padding:.9rem 1.4rem;text-decoration:none;font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em; transition:all .2s;align-self:flex-start}
-.btn-secondary:hover{background:var(--void);color:var(--white);padding-right:1.8rem}
-
+a.btn-primary{display:inline-flex;align-items:center;gap:.6rem;background:var(--accent);border:none;color:var(--accent-on-dark);padding:.9rem 1.4rem;text-decoration:none;font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em;clip-path:polygon(0 0,calc(100% - 10px) 0,100% 100%,0 100%);transition:all .2s}
+a.btn-primary:hover{background:var(--void);color:var(--white);padding-right:1.8rem;text-decoration: none;}
+a.btn-secondary{display:inline-flex;align-items:center;gap:.6rem;background:var(--white);border:none;color:var(--void);padding:.9rem 1.4rem;text-decoration:none;font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em; transition:all .2s;align-self:flex-start}
+a.btn-secondary:hover{background:var(--void);color:var(--white);padding-right:1.8rem;text-decoration: none;}
 
 /* ========================================
    404 PAGE
